@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aristex12
 - 👀 I’m interested in all the things that have something to do with pc's
-- 🌱 I’m currently learning how to be a programmer beacause i'm a noob :(
+- 🌱 I’m currently learning how to be a programmer because i'm a noob :(
 - 💞️ I’m looking to collaborate on nothing for now
 - 📫 How to reach me: aristex@hotmail.com
 
