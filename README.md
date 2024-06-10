@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Aris Maximilian Kuhs
 
 <div align="center">
-  <img src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="600" height="400" />
+  <img src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="100%" height="auto" />
 </div>
 
 I'm a passionate web developer with a keen interest in cybersecurity. I'm always eager to take on new challenges and push my limits, both professionally and personally. Here, you'll find a collection of my projects and contributions.
