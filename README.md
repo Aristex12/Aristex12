@@ -20,6 +20,7 @@ I'm a passionate web developer with a keen interest in cybersecurity. I'm always
   - Developed an employee management system, demonstrating expertise in front-end and back-end integration.
 
 ## 🛠️ Skills
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - **Front-End**: HTML, CSS, JavaScript, TypeScript, jQuery
 - **Back-End**: Java, PHP, PL/SQL, Python
 - **Databases**: MySQL, SQL, Firebase
