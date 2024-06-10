@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Aris Maximilian Kuhs
 
-![Profile Banner](https://via.placeholder.com/800x200/282c34/ffffff?text=Welcome+to+my+GitHub+Profile!)
+![Welcome Image](https://via.placeholder.com/800x200/1e1e2e/ffffff?text=Welcome+to+my+GitHub+Profile!&color=8a2be2)
 
 I'm a passionate web developer with a keen interest in cybersecurity. I'm always eager to take on new challenges and push my limits, both professionally and personally. Here, you'll find a collection of my projects and contributions.
 
