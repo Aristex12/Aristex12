@@ -60,7 +60,6 @@ I'm a passionate web developer with a keen interest in cybersecurity. I'm always
 
 ## 📞 Contact
 - **Email**: aristex@hotmail.com
-- **Phone**: +34 632 707 689
 - **LinkedIn**: [arismaximiliankuhs](https://www.linkedin.com/in/arismaximiliankuhs)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aristex12&show_icons=true&theme=radical)
