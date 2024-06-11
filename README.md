@@ -35,23 +35,13 @@ I'm a passionate web developer with a keen interest in cybersecurity. I'm always
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 
 ## 📚 Education
-<div style="display: flex; align-items: center; flex-direction: row">
-  <div style="width: 70%">
-    <p>
-      <b>- Higher Degree in Web Application Development</b><br>
-      Universidad Europea de Madrid (September 2022 - Present)<br>
-      Average score: 9
-    </p>
-    <p>
-      <b>- Middle Degree in Microcomputer and Network Systems</b><br>
-      Colegio Santa Mónica (September 2020 - June 2022)<br>
-      Average score: 9.9
-    </p>
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <img src="https://media.giphy.com/media/jIqh3ym2s7GU/giphy.gif" width="30%" height="max-content" />
-  </div>
-</div>
+- **Higher Degree in Web Application Development**
+  - Universidad Europea de Madrid (September 2022 - Present)
+  - Average score: 9
+
+- **Middle Degree in Microcomputer and Network Systems**
+  - Colegio Santa Mónica (September 2020 - June 2022)
+  - Average score: 9.9
 
 ## 🌟 Projects
 ### [Portfolio](https://github.com/Aristex12/Portfolio)
