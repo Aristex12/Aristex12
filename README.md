@@ -49,16 +49,16 @@ I'm a passionate web developer with a keen interest in cybersecurity. I'm always
 - **Technologies**: HTML, CSS
 
 ### [BrainWave](https://github.com/Aristex12/BrainWave)
-- A PHP-based project for managing brainwave data.
-- **Technologies**: PHP
+- A PHP-based project for helping people with TDAH disorder.
+- **Technologies**: HTML, CSS, PHP and JavaScript
 
-### [Project Administrator](https://github.com/Aristex12/Project_Administrator)
-- A Java-based project for managing various administrative tasks.
-- **Technologies**: Java
+### [MyProTask_front](https://github.com/Aristex12/MyProTask_front)
+- A front-end application for managing employees and projects.
+- **Technologies**: React, TypeScript, CSS
 
-### [Games Website](https://github.com/Aristex12/Games_Website)
-- A website featuring various games.
-- **Technologies**: HTML
+### [MyProTask_back](https://github.com/Aristex12/MyProTask_back)
+- A back-end solution for managing employees and projects with a set of comprehensive APIs.
+- **Technologies**: Java, Spring and API Rest
 
 ## 📞 Contact
 - **Email**: aristex@hotmail.com
