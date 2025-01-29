@@ -54,7 +54,7 @@ I'm a passionate web developer with a keen interest in cybersecurity. I'm always
 
 ### [MyProTask_front](https://github.com/Aristex12/MyProTask_front)
 - A front-end application for managing employees and projects.
-- **Technologies**: React, TypeScript, CSS
+- **Technologies**: Angular, TypeScript, CSS
 
 ### [MyProTask_back](https://github.com/Aristex12/MyProTask_back)
 - A back-end solution for managing employees and projects with a set of comprehensive APIs.
