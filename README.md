@@ -37,17 +37,13 @@ I'm a passionate web developer with a keen interest in cybersecurity. I'm always
 ## 📚 Education
 - **Higher Degree in Web Application Development**
   - Universidad Europea de Madrid (September 2022 - Present)
-  - Average score: 9
+  - Average score: 9.15
 
 - **Middle Degree in Microcomputer and Network Systems**
   - Colegio Santa Mónica (September 2020 - June 2022)
   - Average score: 9.9
 
 ## 🌟 Projects
-### [Portfolio](https://github.com/Aristex12/Portfolio)
-- A personal portfolio website showcasing my work and skills.
-- **Technologies**: HTML, CSS
-
 ### [BrainWave](https://github.com/Aristex12/BrainWave)
 - A PHP-based project for helping people with TDAH disorder.
 - **Technologies**: HTML, CSS, PHP and JavaScript
