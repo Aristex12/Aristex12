@@ -34,29 +34,27 @@ Currently pursuing the **Offensive Security Certified Professional**, focused on
 - Active on **Hack The Box**, **TryHackMe**, and other virtual labs.
 - Passionate about solving real-world challenges to sharpen my skills.
 
----
 
 ## 💼 Experience
 
-### 💼 Planet (Jul 2024 – Present) – *Madrid, Spain*
+### 🌍 Planet (Jul 2024 – Present) – *Madrid, Spain*
 **Merchant and Technical Support Agent**
 - Provided support to merchants and partners, resolving complex technical issues.
 - Focused on customer satisfaction, service uptime, and process optimization.
 - Collaborated cross-functionally to escalate and resolve advanced problems.
 
-### 💼 Eviden (Apr 2024 – Jun 2024) – *Madrid, Spain*
+### 🎧 Eviden (Apr 2024 – Jun 2024) – *Madrid, Spain*
 **Full Stack Web Developer Intern**
 - Developed scalable web apps using Angular, Java, Spring, and REST APIs.
 - Built an employee management system with full stack integration.
 - Worked in an agile, team-based environment.
 
-### 💼 AgenciaCom (Apr 2022 – Jun 2022) – *Palma de Mallorca*
+### 🎨 AgenciaCom (Apr 2022 – Jun 2022) – *Palma de Mallorca*
 **Full Stack Web Developer Intern**
 - Built and maintained WordPress-based sites using HTML, CSS, PHP, and jQuery.
 - Improved performance and UX through targeted visual and technical enhancements.
 - Participated in various multidisciplinary web projects.
 
----
 
 ## 🛠️ Skills
 
@@ -88,7 +86,6 @@ Currently pursuing the **Offensive Security Certified Professional**, focused on
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 
----
 
 ## 🌍 Languages
 - 🇩🇪 **German** – Native  
@@ -96,7 +93,6 @@ Currently pursuing the **Offensive Security Certified Professional**, focused on
 - 🇬🇧 **English** – Proficient  
 - 🗣 **Catalan** – Proficient  
 
----
 
 ## 🤝 Soft Skills
 - 🔄 Adaptability  
@@ -105,7 +101,6 @@ Currently pursuing the **Offensive Security Certified Professional**, focused on
 - 🧩 Problem Solving  
 - 🤝 Team Collaboration  
 
----
 
 ## 📚 Education
 
@@ -117,7 +112,6 @@ Currently pursuing the **Offensive Security Certified Professional**, focused on
   *Colegio Santa Mónica (2020 – 2022)*  
   GPA: 9.9 / 10
 
----
 
 ## 🌟 Projects
 
@@ -136,7 +130,6 @@ A complete backend system for employee/project management.
 ### [🧰 Privilege Escalation Toolkit (WIP)](https://github.com/Aristex12/windows_pe)
 Collection of categorized PE techniques: DLL Hijacking, UAC Bypass, Token Impersonation, etc.
 
----
 
 ## 📞 Contact
 
