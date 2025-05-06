@@ -37,7 +37,7 @@ Currently pursuing the **Offensive Security Certified Professional**, focused on
 
 ## 💼 Experience
 
-### 🌍 Planet (Jul 2024 – Present) – *Madrid, Spain*
+### 🌍 Planet (Jul 2024 – March 2025) – *Madrid, Spain*
 **Merchant and Technical Support Agent**
 - Provided support to merchants and partners, resolving complex technical issues.
 - Focused on customer satisfaction, service uptime, and process optimization.
@@ -106,7 +106,7 @@ Currently pursuing the **Offensive Security Certified Professional**, focused on
 
 - 🎓 **Higher Degree in Web Application Development**  
   *Universidad Europea de Madrid (2022 – 2024)*  
-  GPA: 9 / 10
+  GPA: 9.15 / 10
 
 - 🎓 **Middle Degree in Microcomputer and Network Systems**  
   *Colegio Santa Mónica (2020 – 2022)*  
