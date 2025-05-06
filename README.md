@@ -6,7 +6,6 @@
 
 I'm a **Junior Penetration Tester** and **Full-Stack Developer** passionate about offensive security, reverse engineering, and solving complex technical challenges. I thrive in competitive environments where learning never stops and every obstacle is an opportunity to grow.
 
----
 
 ## 🚀 About Me
 
@@ -15,7 +14,6 @@ I'm a **Junior Penetration Tester** and **Full-Stack Developer** passionate abou
 - 🧠 **Competitor**, 2nd place at IMMUNE Olympics - Hacking Fest 2022.
 - 🏁 Constantly pushing boundaries through projects, CTFs, and research.
 
----
 
 ## 🛡️ Pentesting & Cybersecurity
 
